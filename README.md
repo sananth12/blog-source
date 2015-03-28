@@ -1,2 +1,2 @@
-# blog-source
-Source which build the Pelican Blog
+# Ananth's Blog
+Source which builds the Pelican Blog.
